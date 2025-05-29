@@ -25,13 +25,13 @@ export const config = {
     },
   },
   author: {
-    name: "Your Name",
-    email: "your.email@example.com",
-    bio: "这是一个 Nextjs 博客模板",
+    name: "乔仔",
+    email: "724024890@qq.com",
+    bio: "希望世界和平",
   },
   social: {
-    github: "https://github.com/xxx",
-    x: "https://x.com/xxx",
+    github: "https://github.com/ajiao7240",
+    x: "https://x.com/qiaozai_",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
     buyMeACoffee: "https://www.buymeacoffee.com/xxx",
