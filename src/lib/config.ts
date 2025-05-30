@@ -1,6 +1,6 @@
 export const config = {
   site: {
-    title: "乔仔的碎碎念",
+    title: "QiaoZai Blog",
     name: "Joe Blog",
     description: "日常学习和技术学习以及记录生活趣闻",
     keywords: ["Java", "AI", "Full Stack Developer"],
