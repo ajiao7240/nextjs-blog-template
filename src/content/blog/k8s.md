@@ -1,3 +1,13 @@
+---
+title: Kubernetes 入门学习笔记
+date: 2025-04-05T21:10:00+08:00
+updated: 2025-04-05T21:10:00+08:00
+keywords: ["hello", "world"]
+featured: true
+summary: "Kubernetes 入门学习笔记"
+---
+
+这是一个 Nextjs 博客模板，本文会介绍这个模板的一些基本用法。
 # Kubernetes 入门学习笔记
 
 > 基于郑光力的 [Kubernetes 入门教程](https://guangzhengli.com/courses/kubernetes/pre) 整理  
