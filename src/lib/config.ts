@@ -1,12 +1,12 @@
 export const config = {
   site: {
-    title: "Nextjs Blog Template",
-    name: "Nextjs Blog Template",
-    description: "Nextjs Blog Template",
-    keywords: ["Nextjs Blog Template", "AI", "Full Stack Developer"],
-    url: "https://xxx.com",
-    baseUrl: "https://xxx.com",
-    image: "https://xxx.com/og-image.png",
+    title: "乔仔的碎碎念",
+    name: "Joe Blog",
+    description: "日常学习和技术学习以及记录生活趣闻",
+    keywords: ["Java", "AI", "Full Stack Developer"],
+    url: "https://www.cscqiaozai.xyz/",
+    baseUrl: "https://www.cscqiaozai.xyz/",
+    image: "https://www.cscqiaozai.xyz/og-image.png",
     favicon: {
       ico: "/favicon.ico",
       png: "/favicon.png",
@@ -27,11 +27,11 @@ export const config = {
   author: {
     name: "乔仔",
     email: "724024890@qq.com",
-    bio: "希望世界和平",
+    bio: "无人打扫的小站",
   },
   social: {
     github: "https://github.com/ajiao7240",
-    x: "https://x.com/qiaozai_",
+    x: "https://x.com/",
     xiaohongshu: "https://www.xiaohongshu.com/user/profile/xxx",
     wechat: "https://storage.xxx.com/images/wechat-official-account.png",
     buyMeACoffee: "https://www.buymeacoffee.com/xxx",
