@@ -1,3 +1,11 @@
+---
+title: MCP 终极指南
+date: 2025-04-05T20:10:00+08:00
+updated: 2025-04-05T20:10:00+08:00
+keywords: ["hello", "world"]
+featured: true
+summary: "这篇文章包含markdown语法基本的内容。"
+---
 # MCP 终极指南
 
 过去快一年的时间没有更新 AI 相关的博客，一方面是在忙 side project，另外一方面也是因为 AI 技术虽然日新月异，但是 AI 应用层的开发并没有多少新的东西，大体还是[2023年的博客](https://guangzhengli.com/blog/zh/gpt-embeddings/)讲的那三样，Prompt、RAG、Agent。

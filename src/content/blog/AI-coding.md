@@ -1,3 +1,11 @@
+---
+title: AI 编程工具的进化与 Vibe Coding
+date: 2025-04-05T20:10:00+08:00
+updated: 2025-04-05T20:10:00+08:00
+keywords: ["hello", "world"]
+featured: true
+summary: "这篇文章包含markdown语法基本的内容。"
+---
 # 谈谈 AI 编程工具的进化与 Vibe Coding
 
 最近关于 AI 辅助编程和 Vibe Coding 的讨论非常激烈，想了想还是写一篇博客来表达我自己的观点。

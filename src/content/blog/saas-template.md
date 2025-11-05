@@ -1,3 +1,11 @@
+---
+title: 独立开发者 SaaS 模板
+date: 2025-04-05T20:10:00+08:00
+updated: 2025-04-05T20:10:00+08:00
+keywords: ["hello", "world"]
+featured: true
+summary: "这篇文章包含markdown语法基本的内容。"
+---
 # 独立开发者 SaaS 模板
 
 在过去两个月的时间里，我一直致力于开发一个让我自己满意的 Next.js 模板，到今天为止，这个模板已经非常接近我想要的样子，并且支持部署到所有云平台中。包括但不限于 Vercel, Cloudflare Workers, AWS, Railway, Fly.io, Zeabur, GCP, Azure 等。所以也是时候推出 [NextDevKit](https://nextdevkit.com/) 和大家见面啦🔥
