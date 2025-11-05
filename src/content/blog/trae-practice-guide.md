@@ -10,7 +10,7 @@ summary: "这篇文章包含markdown语法基本的内容。"
 
 最近AI编程工具越来越多了，从GitHub Copilot到Cursor，再到Claude Code，每个工具都在试图重新定义编程的方式。就在我以为这个赛道已经够卷的时候，字节跳动推出了Trae——一个AI原生的IDE。
 
-<!-- 图片1: Trae IDE主界面 -->
+/* 图片1: Trae IDE主界面 */
 ![Trae IDE主界面](/images/trae-practice/trae-main-interface.webp)
 *Trae IDE的主界面，展示了简洁的编辑器布局和功能丰富的侧边栏*
 
@@ -57,7 +57,7 @@ Trae是字节跳动推出的AI原生IDE。和其他工具不同，Trae从设计�
 创建一个基于Flask的待办事项API，包含增删改查功能，数据用SQLite存储
 ```
 
-<!-- 图片2: 自然语言生成代码 -->
+/* 图片2: 自然语言生成代码 */
 ![自然语言生成代码](/images/trae-practice/natural-language-coding.webp)
 *在Trae的Chat模式中，用自然语言描述需求，3秒后生成完整的Flask API代码*
 
@@ -148,7 +148,7 @@ if __name__ == '__main__':
 基于Flask的用户管理系统，包含完整的目录结构、依赖管理、配置文件
 ```
 
-<!-- 图片3: Builder模式生成项目结构 -->
+/* 图片3: Builder模式生成项目结构 */
 ![Builder模式生成项目结构](/images/trae-practice/builder-mode-structure.webp)
 *Trae的Builder模式在10秒内生成完整的项目文件结构，包含所有必要的配置文件*
 
@@ -183,7 +183,7 @@ todo-app/
 - 右侧待办事项列表
 - 添加新事项的表单
 
-<!-- 图片4: 设计稿转代码对比 -->
+/* 图片4: 设计稿转代码对比 */
 ![设计稿转代码对比](/images/trae-practice/design-to-code-comparison.webp)
 *Trae的Design功能将Figma设计稿转换为Vue.js代码，5秒钟内完成从设计到可运行组件的转换*
 
@@ -508,7 +508,7 @@ CORS(app)  # 允许跨域请求
 Internal Server Error: /api/todos
 ```
 
-<!-- 图片5: Chat模式调试过程 -->
+/* 图片5: Chat模式调试过程 */
 ![Chat模式调试过程](/images/trae-practice/chat-debug-process.webp)
 *在Chat模式中贴出错误信息，Trae快速定位问题并提供解决方案，从错误到解决只需要30秒*
 
@@ -565,7 +565,7 @@ Trae给出了详细的部署步骤：
 
 ## 性能评估
 
-<!-- 图片6: 性能对比数据 -->
+/* 图片6: 性能对比数据 */
 ![性能对比数据](/images/trae-practice/performance-comparison-chart.webp)
 *传统开发方式与Trae的效率对比：传统开发需要7小时45分钟，Trae仅用56分钟，效率提升8.3倍*
 
@@ -664,7 +664,7 @@ Trae作为字节跳动的产品，我觉得有几个可能的发展方向：
 **4. 多语言支持**
 目前看起来主要支持Python和JavaScript，未来可能会支持更多编程语言。
 
-<!-- 图片7: 最终项目效果 -->
+/* 图片7: 最终项目效果 */
 ![最终项目运行效果](/images/trae-practice/final-app-screenshot.webp)
 *使用Trae构建的待办事项管理应用最终效果，包含完整的CRUD功能和响应式设计*
 
