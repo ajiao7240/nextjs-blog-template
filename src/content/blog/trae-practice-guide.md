@@ -1,9 +1,10 @@
 ---
 title: 用Trae构建完整项目：从需求到部署的全流程实践
-description: 通过完整的待办事项管理应用项目，深度体验字节跳动Trae AI原生IDE的各项功能，从自然语言生成代码到设计稿转前端页面，实测开发效率提升8.3倍。
-pubDate: 2025-01-05
-tags: ['AI编程', 'Trae', '字节跳动', '开发工具', '实战教程']
-heroImage: /images/trae-practice/trae-main-interface.webp
+date: 2025-04-05T20:10:00+08:00
+updated: 2025-04-05T20:10:00+08:00
+keywords: ["hello", "world"]
+featured: true
+summary: "这篇文章包含markdown语法基本的内容。"
 ---
 
 # 用Trae构建完整项目：从需求到部署的全流程实践
