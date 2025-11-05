@@ -6,7 +6,6 @@ keywords: ["hello", "world"]
 featured: true
 summary: "这篇文章包含markdown语法基本的内容。"
 ---
-
 # 用Trae构建完整项目：从需求到部署的全流程实践
 
 最近AI编程工具越来越多了，从GitHub Copilot到Cursor，再到Claude Code，每个工具都在试图重新定义编程的方式。就在我以为这个赛道已经够卷的时候，字节跳动推出了Trae——一个AI原生的IDE。
